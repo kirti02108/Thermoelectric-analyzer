@@ -24,7 +24,23 @@ A web application to analyze, visualize, and compare the performance of thermoel
 
 ## 📷 Screenshots
 
-*Add screenshots of your app here*
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Register Page
+![Login Page](screenshots/register.png)
+
+### Calculator
+![Login Page](screenshots/calculator.png)
+
+### TLM Processor
+![Login Page](screenshots/TLM.png)
+
+### Saved History
+![Login Page](screenshots/history.png)
 
 ## 🗂️ Folder Structure
 
