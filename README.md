@@ -3,10 +3,6 @@
 
 A web application to analyze, visualize, and compare the performance of thermoelectric coolers (TECs) under different operating conditions.
 
-## 🚀 Live Demo
-
-*Add your deployed link here if available.*
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, React Router, Axios, Plotly.js, PapaParse
@@ -85,12 +81,6 @@ text
 cd frontend
 npm install
 npm start
-
-text
-
-## 📊 Example Dataset
-
-*Add a sample CSV file in `/data` folder for testing.*
 
 ## 🤝 Contributing
 
