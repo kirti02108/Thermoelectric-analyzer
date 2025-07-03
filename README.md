@@ -57,8 +57,6 @@ thermoelectric-analyzer/
 ├── README.md
 ├── package.json
 
-text
-
 ## ⚡️ Getting Started
 
 ### 1. Clone the repo
@@ -66,15 +64,11 @@ text
 git clone https://github.com/yourusername/thermoelectric-analyzer.git
 cd thermoelectric-analyzer
 
-text
-
 ### 2. Setup Backend
 
 cd backend
 npm install
 node app.js
-
-text
 
 ### 3. Setup Frontend
 
@@ -96,13 +90,14 @@ Pull requests are welcome! For major changes, please open an issue first.
 ---
 
 *Inspired by real TEC research and engineering projects.*
-11. Extra: Install all dependencies
+
+### Extra: Install all dependencies
 In your frontend folder, run:
 
 bash
 npm install react-router-dom axios papaparse react-plotly.js plotly.js
 
-12. How to Run
+### How to Run
 Start backend (backend/app.js):
 
 bash
